@@ -1,0 +1,12 @@
+# Binaries
+bin/
+scraper
+
+# Scraped Data
+output/
+
+# Dependencies
+vendor/
+
+# OS files
+.DS_Store
